@@ -1,0 +1,9 @@
+{
+    "database": {
+        "url": "sqlite:///database.db"
+    },
+    "app": {
+        "name": "MurphyLogistik",
+        "version": "1.0"
+    }
+}

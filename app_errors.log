@@ -1,0 +1,10 @@
+2025-07-05 20:22:46,535 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Mersi\MurphyLogistik\main.py", line 33, in <module>
+    main()
+  File "C:\Mersi\MurphyLogistik\main.py", line 30, in main
+    raise e
+  File "C:\Mersi\MurphyLogistik\main.py", line 23, in main
+    window = MainWindow(engine)
+             ^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.__init__() takes 1 positional argument but 2 were given
